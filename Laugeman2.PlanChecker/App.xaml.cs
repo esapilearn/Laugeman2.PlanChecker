@@ -16,7 +16,7 @@ namespace Laugeman2.PlanChecker
 {
     /// <summary>
     /// Interaction logic for App.xaml
-    /// </summary>
+    /// </summary> Comment
     public partial class App
     {
         private IEventAggregator _ea;
