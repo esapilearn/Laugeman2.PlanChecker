@@ -2,6 +2,7 @@
 using ESAPIX.AppKit.Overlay;
 using ESAPIX.Common;
 using ESAPIX.Common.Args;
+using ESAPIX.Constraints;
 using ESAPIX.Interfaces;
 using ESAPIX.Services;
 using Laugeman2.PlanChecker.Views;
@@ -29,6 +30,8 @@ namespace Laugeman2.PlanChecker
 
         protected override void OnStartup(StartupEventArgs e)
         {
+            //var result = TG263.IsCompliant("LParotid", "", 5).Result;
+
             _args = e.Args;
             base.OnStartup(e);
         }
