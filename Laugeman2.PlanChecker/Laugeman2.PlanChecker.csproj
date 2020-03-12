@@ -133,7 +133,7 @@
       <Version>1.5.3.11</Version>
     </PackageReference>
     <PackageReference Include="Prism.Ninject">
-      <Version>7.2.0.1367</Version>
+      <Version>7.2.0.1422</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
